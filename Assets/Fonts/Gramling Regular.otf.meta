@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b759496facebb484eb56e72487e6c2df
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - gramling
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c323dc23c2a26d547a729a714d128244, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

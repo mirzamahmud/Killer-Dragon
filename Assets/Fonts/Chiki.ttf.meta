@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4fd34059ae5c6624abcf102a8eb59c72
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chiki
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 141b4858abdfb18468416823114353a8, type: 3}
+  - {fileID: 12800000, guid: 0f3fa6bdf3449734c8bfed16da78f22c, type: 3}
+  - {fileID: 12800000, guid: 7b9e908499ae6af499bb0779c2300e64, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
